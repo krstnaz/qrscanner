@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyQr</string>
+    <string name="app_in_name">QR-Scanner</string>
+    <string name="app_name_after">Register App</string>
+    <string name="text_bottom">Войдите в свою учетную запись</string>
+    <string name="btnSignIn">Войти</string>
+    <string name="btnRegister">Зарегистрироваться</string>
+
+    <string name="component_list_header">Список деталей</string>
+    <string name="add_component_btn">Добавить деталь</string>
+    <string name="component_list_table_h_1">Наименование</string>
+    <string name="component_list_table_h_2">Артикул</string>
+</resources>
